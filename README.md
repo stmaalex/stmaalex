@@ -4,8 +4,11 @@
 <h4 align="center">Warm welcome to my GitHub profile</h5>
 <br>
 My name is Marina, I am a junior front-end/full-stack web developer!
-
+<br>
+<br>
 Here's some information about me:
+<br>
+<br>
 <ul>
 <li>🔭 I’m currently looking for a full-stack or front-end junior position.</li>
 <li>👾 While I'm busy with my search process, I am also diving deep into React and expanding my skill set.</li>
