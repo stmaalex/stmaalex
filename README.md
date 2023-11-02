@@ -6,14 +6,6 @@
 My name is Marina, I am a junior front-end/full-stack web developer!
 <br>
 <br>
-Here's some information about me:
-<br>
-<br>
-<ul>
-<li>🔭 I’m currently looking for a full-stack or front-end junior position.</li>
-<li>👾 While I'm busy with my search process, I am also diving deep into React and expanding my skill set.</li>
-<li>📧 Feel free to reach out to me via email: stepanov.mari@gmail.com.</li>
-</ul>
 
 Take a look at my collaborative projects, where I was responsible for the front-end:
 <ol>
