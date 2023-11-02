@@ -8,10 +8,10 @@ My name is Marina, I am a junior front-end/full-stack web developer!
 <br>
 
 Take a look at my collaborative projects, where I was responsible for the front-end:
-<ol>
-<li>Chick-pal: http://chick-pal.herokuapp.com/</li>
-<li> MeetWear App (tailored only for iPhone 12 PRO due to really short deadlines): https://meetwear.me/</li>
-</ol>
+<br>
+Chick-pal: http://chick-pal.herokuapp.com/</li>
+MeetWear App (tailored only for iPhone 12 PRO due to really short deadlines): https://meetwear.me/</li>
+
 <br>
 <h4 align="center">My tech stack:</h4> 
 <p align="center">
@@ -21,5 +21,5 @@ Take a look at my collaborative projects, where I was responsible for the front-
 </p>
 
 
-<h4 align="center">Open for job oportunities and collaboration ideas. Let's rock! </h4>
+<h4 align="center">Open for collaboration ideas. Let's rock! </h4>
 
